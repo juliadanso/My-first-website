@@ -1,0 +1,30 @@
+ body{
+    background-color: whitesmoke;
+    color: rgb(15, 15, 26);
+ }
+
+ table,  th, td{
+  border:1px solid black;
+  border-collapse: collapse;
+ }
+
+table{
+    width:400px;
+ 
+}
+th, td{
+    padding: 10px;
+    background-color: rgb(77, 203, 203);
+   
+}
+
+  th{
+    text-align:left;
+    border-collapse: collapse;
+  }
+  h1{
+    text-align:justify;
+    font-size:x-large;
+  }
+  
+
